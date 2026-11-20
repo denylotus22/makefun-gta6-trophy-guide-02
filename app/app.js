@@ -86,6 +86,27 @@ function renderProgress() {
     `${earned} of ${total} earned · ${pct}% · ${total - earned} to go`;
 }
 
+/** Display text for a trophy's time estimate, or null when it gets no time
+    badge. Bare durations get "About" ("About 4–6 hours"); values that
+    already read as a phrase ("About 30 minutes", "On the way to 100%",
+    "Unconfirmed") are shown as they are; story trophies get no time badge
+    at all — their chapter badge already says where they fall. Before this
+    fix 30 of the 55 trophies showed a garbled badge: "About Story —
+    Chapter 1" (duplicating the Chapter badge), "About About 30 minutes"
+    and "About Unconfirmed". */
+function timeBadgeText(trophy) {
+  if (trophy.time.startsWith('Story')) return null;
+  if (/^[0-9]/.test(trophy.time)) return `About ${trophy.time}`;
+  return trophy.time;
+}
+
+/** The time phrase for the "next best trophy" line, same rules as the badge. */
+function timePhrase(trophy) {
+  if (trophy.time === 'Unconfirmed') return 'time unconfirmed';
+  if (/^[0-9]/.test(trophy.time)) return `about ${trophy.time.toLowerCase()}`;
+  return trophy.time.toLowerCase();
+}
+
 /** Pick the next best trophy: easiest unchecked one, story first, then by difficulty. */
 function pickNextBestTrophy() {
   const remaining = state.trophies.filter((t) => t.id !== 'vice-got-a-price' && !state.earned.has(t.id));
@@ -106,7 +127,7 @@ function renderNextBest() {
   if (!next) { box.innerHTML = ''; return; }
   const why = next.kind === 'story'
     ? 'the next story trophy in order — play the story and it comes to you.'
-    : `difficulty ${next.difficulty} of 5, about ${next.time.toLowerCase()} — the easiest thing left on your list.`;
+    : `difficulty ${next.difficulty} of 5, ${timePhrase(next)} — the easiest thing left on your list.`;
   box.innerHTML = `<h2>Next best trophy</h2><p><span class="next-name"></span> — ${why}</p>`;
   box.querySelector('.next-name').textContent = next.name;
 }
@@ -150,6 +171,8 @@ function trophyCard(trophy) {
   const missable = trophy.missable ? '<span class="badge missable">Missable — see guide</span>' : '';
   const count = trophy.count !== undefined ? `<span class="badge meta">Target: ${formatCount(trophy)}</span>` : '';
   const chapter = trophy.chapter !== undefined ? `<span class="badge meta">Chapter ${trophy.chapter}</span>` : '';
+  const timeText = timeBadgeText(trophy);
+  const time = timeText === null ? '' : `<span class="badge meta">${escapeHtml(timeText)}</span>`;
   const open = state.openGuides.has(trophy.id);
   const sources = trophy.sources.map((s) => `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.name)}</a>`).join(' · ');
   const unconfirmed = trophy.time === 'Unconfirmed'
@@ -165,7 +188,7 @@ function trophyCard(trophy) {
           <span class="badge kind">${KIND_LABELS[trophy.kind] ?? trophy.kind}</span>
           ${missable}${count}${chapter}
           <span class="badge meta">Difficulty ${trophy.difficulty}/5</span>
-          <span class="badge meta">About ${escapeHtml(trophy.time)}</span>
+          ${time}
         </div>
         <button type="button" class="guide-toggle" aria-expanded="${open}">${open ? 'Hide guide' : 'Show guide'}</button>
         <div class="guide"${open ? '' : ' hidden'}>

@@ -99,6 +99,42 @@ match the starter list exactly, grades and descriptions identical).
 - `vendor/makefun-frontend.ts` is byte-identical to the kit starter's copy
   (`cmp` verified).
 
+## Reviser pass (Fri 2026-11-20, same recording 01a1f988…)
+
+Second pass in a fresh session on top of commit 21b1d16:
+
+- **`.makefun/owner.json` fixed (mandatory):** it named `{"wallet":"fan2205"}`,
+  which is not a wallet on the account — every successful entry uses the
+  agent wallet. Now exactly
+  `{"wallet":"8XXCQ3WmqX8XBo8mCSh1GfL7UMRDrd1Cz5J5eZ8yuCDq"}`.
+- **Real UI fix — garbled time badges (`app/app.js`):** the badge was built
+  as `About ${trophy.time}` for every trophy, but the data's `time` values
+  are not all bare durations. 30 of the 55 trophies showed a wrong badge:
+  12 story trophies `About Story — Chapter N` (duplicating the `Chapter N`
+  badge next to it), 8 `About About 30/15 minutes`, 5 `About Unconfirmed`,
+  5 `About On the way to 100%`. New `timeBadgeText()` helper: story
+  trophies get no time badge (the chapter badge already says it), bare
+  durations get `About …`, phrase values are shown as they are. The same
+  double-`About` bug existed in the "next best trophy" line
+  (`about ${time.toLowerCase()}`); fixed with a matching `timePhrase()`.
+  Verified in a real headless-Chrome render of the served app: 0 garbled
+  badges remain; e.g. Just Like Paradise now shows bronze / Story /
+  Chapter 1 / Difficulty 1/5, Baited My Tackle `About 30 minutes`,
+  In The Beginning… `Unconfirmed`, One Last Thing `On the way to 100%`,
+  A Long Road still `About 100+ hours`. The header progress bar
+  (`X of 55 earned · Y%`) and the filters already existed, so neither was
+  duplicated. Repo About fields verified via `gh`: homepage
+  https://make.fun/bounty/gta6-trophy-guide-01 and topics
+  makefun/gta6/trophy-guide were already correct — no change needed.
+- **Screenshots:** re-took all 4 with `shots.mjs` (0 console errors).
+  1-cover, 2-roadmap and 4-guide are byte-identical to before; 3-spoiler
+  changed (71,120 → 65,381 bytes) because the story badges are fixed.
+  All four are 1280×860 JPEG, ≤256 KiB.
+- **Verification after the fix:** kit check 4 passed, 0 failed (17 skipped,
+  5 at submission); `MAKEFUN_OUTPUT_DIR=out node main.ts` builds
+  dossier.json (689,155 bytes); all 55 trophy names still match the
+  starter list exactly, every trophy has a non-blank guide.
+
 ## Files
 
 - `main.ts` — entry program (copies app/ + screenshots/, writes dossier.json)
@@ -107,4 +143,4 @@ match the starter list exactly, grades and descriptions identical).
 - `app/data/roadmap.json` — three-stage platinum roadmap
 - `screenshots/` — 4 renders (see above)
 - `README.md`, `LICENSE` (MIT, SPDX line), `package.json`,
-  `.makefun/owner.json` (wallet fan2205)
+  `.makefun/owner.json` (wallet 8XXCQ3WmqX8XBo8mCSh1GfL7UMRDrd1Cz5J5eZ8yuCDq — fixed in reviser pass, was fan2205)
