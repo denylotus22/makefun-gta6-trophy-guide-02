@@ -1,0 +1,1078 @@
+{
+  "trophies": [
+    {
+      "id": "vice-got-a-price",
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Unlocks on its own once the other 54 trophies are earned — there is no separate task behind it. Every trophy is single-player and offline, so no multiplayer or DLC is needed. Expect roughly 200 hours by PowerPyx’s estimate, or 250+ by Push Square’s; most of that time is the 100% completion checklist, not the story.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "platinum",
+      "missable": false,
+      "difficulty": 5,
+      "time": "200+ hours"
+    },
+    {
+      "id": "just-like-paradise",
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Finish the Chapter 1 mission “Gone Fishing”, the second mission of the story — a smuggling run with Donnie that goes wrong. It unlocks as the story plays; nothing special is needed, and it cannot be missed. This is the first story trophy.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 1",
+      "chapter": 1
+    },
+    {
+      "id": "paradise-lost",
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Play through all 22 missions of Chapter 1; the trophy pops when the chapter ends. PowerPyx notes the chapter trophies can pop a little late, after the first mission or two of the next chapter, so do not worry if it does not fire at the end cutscene. Missions cannot be replayed, so keep a manual save at the end of each chapter if you like a safety net.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 1",
+      "chapter": 1
+    },
+    {
+      "id": "t-s-ass-drug-money",
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 2, which runs 11 main missions plus 2 optional ones, mostly in Port Gellhorn. The trophy is named after the chapter that follows it, not the one it ends — finishing Chapter 2 earns it. Like the other chapter trophies it may pop a mission or two into Chapter 3.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 2",
+      "chapter": 2
+    },
+    {
+      "id": "vice-city-baby",
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 3, the longest chapter at 26 main missions plus 1 optional, ending with The Cartel Heist. Arriving in Vice City opens the chapter; the trophy pops when the chapter closes.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 3",
+      "chapter": 3
+    },
+    {
+      "id": "top-of-the-world-ma",
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 4, 25 main missions set in Vice City. The chapter ends with the mission “Starting From Zero”; the trophy pops as Chapter 5 begins.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 4",
+      "chapter": 4
+    },
+    {
+      "id": "you-gotta-know-when-to-get-off",
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Complete the final mission, “The End of the Road”, the seventh mission of Chapter 5. This is the gold trophy for finishing the story. Free roam continues afterwards, so finishing the story locks nothing off — every side trophy can still be earned.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 5",
+      "chapter": 5
+    },
+    {
+      "id": "trust",
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete “Breakfast Run”, a main mission in Chapter 2. It is a story mission, so it unlocks as you play through the chapter — no side content is needed.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 2",
+      "chapter": 2
+    },
+    {
+      "id": "break-the-bank",
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete “The Cartel Heist”, the last mission of Chapter 3, in which Raul’s crew hits the Sinfrontera National Bank. It is the chapter’s finale, so it unlocks as you finish the story.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 3",
+      "chapter": 3
+    },
+    {
+      "id": "family-matters",
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete “Child’s Play”, a main mission in Chapter 4. Story-only: play through Chapter 4 and it unlocks.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 4",
+      "chapter": 4
+    },
+    {
+      "id": "dwnfall",
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete “Headliners”, a main mission in Chapter 4. Story-only: play through Chapter 4 and it unlocks.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 4",
+      "chapter": 4
+    },
+    {
+      "id": "hi-jacked",
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Complete “VCIA Takedown”, a main mission in Chapter 4. Story-only: play through Chapter 4 and it unlocks.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 4",
+      "chapter": 4
+    },
+    {
+      "id": "snow-storm",
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete “Operation Savage Glory”, the fifth mission of Chapter 5. Story-only: play through the finale chapter and it unlocks.",
+      "sources": [
+        {
+          "name": "HUDWIRE mission list by chapter (citing PC Gamer, Game Rant, GamesRadar+)",
+          "url": "https://hudwire.com/gta-6-mission-list/"
+        },
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "story",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Story — Chapter 5",
+      "chapter": 5
+    },
+    {
+      "id": "a-long-road",
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Reach 100% on the completion checklist, which opens after the story under Progress, then Stats, then 100% Completion. PowerPyx calls the checklist lenient — about 60% true completion: 70 of 80 challenges, 15 of 18 meditation spots and 300 stunts are enough, but robberies, underwater discoveries, shooting ranges, drone races and Bret’s quests need everything. Push Square is stricter: nearly everything, including 15 of the 18 card sets. Progress made during the story already counts, and nothing on the checklist is missable. This is the longest grind in the game and the last trophy for most players.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 5,
+      "time": "100+ hours"
+    },
+    {
+      "id": "cunning-stunts",
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Complete any 250 stunts — stunt jumps, flights under bridges, knife flights and base jumps all count. PowerPyx counts 397 stunts in total, and 100% completion needs 300, so this pops on the way to A Long Road. A stunt also ticks one of the nine activity types for Master of None.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 3,
+      "time": "10–15 hours",
+      "count": 250
+    },
+    {
+      "id": "master-of-none",
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each of the nine activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, a video game, a race and a stunt, as PowerPyx lists them. You only need to try each one, not win or finish it — start each activity and the trophy follows.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "2–3 hours",
+      "count": 9
+    },
+    {
+      "id": "the-shootist",
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn a gold medal in every one of the 42 Shooting Range challenges — the count comes from the PS5 trophy tracker on PSNProfiles, and GamesRadar and PowerPyx give the same number. Shooting ranges are also one of the nine activity types for Master of None, and 100% completion needs every range challenge too.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 3,
+      "time": "5–8 hours",
+      "count": 42
+    },
+    {
+      "id": "top-fun",
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun drone race at every one of the 14 locations. 100% completion needs every drone race as well, so this is not a detour — it is part of the same cleanup.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "3–5 hours",
+      "count": 14
+    },
+    {
+      "id": "earn-cash-not-kudos",
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races. Any race type counts, and a race also ticks one of the nine activity types for Master of None. Replaying the same race does not add to the count — it has to be 20 different ones.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "3–5 hours",
+      "count": 20
+    },
+    {
+      "id": "baited-my-tackle",
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge. Cal texts you a fishing spot after you meet him in Chapter 1, so look for his message and head to the spot he sends. Fishing is also one of the nine activity types for Master of None.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "About 30 minutes"
+    },
+    {
+      "id": "stick-fiddler",
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Play any one in-game video game through to the end. Three games run on the TV at home and a fourth on arcade machines. A video game is also one of the nine activity types for Master of None.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "1–2 hours"
+    },
+    {
+      "id": "road-to-rehabilitation",
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Finish Andy’s side strand — Lucia only. It starts with a phone call in Chapter 3. Stranger strands can be finished after the story, so there is no rush.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "2–4 hours"
+    },
+    {
+      "id": "this-was-no-boat-accident",
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Finish Kenton’s treasure-diving strand — seven shipwrecks in total. Kenton goes quiet after Chapter 1 and returns later in the story, so the strand is not missable; keep diving when he is back and the final mission closes it.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "2–4 hours",
+      "count": 7
+    },
+    {
+      "id": "the-lone-rider",
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Finish Billy’s strand at the mud club in Kelly County. It opens in Chapter 2. Like the other stranger strands it can be finished after the story.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "2–4 hours"
+    },
+    {
+      "id": "strangers-freaks",
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete eight stranger mission strands across Leonida. Only some side questlines count, and PowerPyx was still confirming which ones — the five named strands (Andy, Kenton, Billy, Randy and Tyrone) are the core, so finish those plus any other stranger strands you find. This trophy is not part of 100% completion, so check it separately at the end of your cleanup.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "8–10 hours",
+      "count": 8
+    },
+    {
+      "id": "supply-demand",
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Finish Randy’s strand — a wish list of 16 sports cars to find and deliver. It opens in Chapter 3. Keep an eye out for the cars on the list as you roam; each delivery moves the strand forward.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "3–5 hours",
+      "count": 16
+    },
+    {
+      "id": "spin-on-this",
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Finish Tyrone’s strand by shutting down labs in Vice City. Jason only, from Chapter 3. The strand’s missions take you to each lab in turn; finish the last one and the trophy pops.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "2–4 hours"
+    },
+    {
+      "id": "positive-mental-attitude",
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at all 18 meditation spots across Leonida — and mind the one risk. During Chapter 1, one morning at Jason’s house, Lucia says she is going to meditate and walks out to the balcony: follow her and accept the optional quest, and she shows you how it works. PowerPyx flags this as the game’s only possibly missable trophy: that early meditation raises the counter by one but is not marked as a spot like the other 18, and it is gone after Chapter 1. It takes a minute and removes the risk. 100% completion needs 15 of the 18 spots, so keep meditating past this trophy.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GameMapa trophy list (citing GamesRadar+, PowerPyx)",
+          "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": true,
+      "difficulty": 2,
+      "time": "4–6 hours",
+      "count": 18
+    },
+    {
+      "id": "fair-game",
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt a unique animal for Bret. Jason only, from Chapter 2. PowerPyx had not confirmed which animal triggers it — clearing all 15 of Bret’s target decks, which 100% completion needs, should cover it. Study new animals through the binoculars as you go: 100% needs 100 of 255 studied, and you do not have to hunt them.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GTA Vibes trophy list (citing PowerPyx, Push Square)",
+          "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "3–5 hours"
+    },
+    {
+      "id": "don-t-touch-my-deck",
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Complete any 3 of the 18 collectible card sets. 100% completion needs 15 of the 18 sets, so keep collecting past this trophy — the same cards feed both.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "difficulty": 3,
+      "time": "6–10 hours",
+      "count": 3
+    },
+    {
+      "id": "you-wainker",
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "Scan 100 spots with the WAiNK phone app — landmarks, curiosities and sculptures all count. Scanning vehicles with WAiNK also counts toward Whip It Good, so scan everything you pass instead of making a separate trip for it.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "difficulty": 2,
+      "time": "4–6 hours",
+      "count": 100
+    },
+    {
+      "id": "one-last-thing",
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Complete 50 of the 80 challenges. 100% completion needs 70, so this pops on the way to A Long Road. Challenges cover combat, driving, exploration and more — check the list under Progress and pick off the ones that fit what you are already doing.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "On the way to 100%",
+      "count": 50
+    },
+    {
+      "id": "hot-together",
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Lose a four-star wanted level while your partner is with you, then escape the heat. Possible once both characters can roam together in Chapter 2. Bank jobs give four stars anyway, so this often pops on its own during Maximum Withdrawal.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "About 30 minutes"
+    },
+    {
+      "id": "retail-therapy",
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Rob three shops in a row with your partner without losing the wanted level. PowerPyx says it pops about 30 seconds after the third shop, so hold the wanted level through all three and wait a moment after the last one.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "About 30 minutes",
+      "count": 3
+    },
+    {
+      "id": "whip-it-good",
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles — scanning them with the WAiNK app is enough; you do not have to drive them. 100% completion needs 200 of the 277 base-model vehicles, so keep scanning every new car you see and this pops early.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "difficulty": 2,
+      "time": "On the way to 100%",
+      "count": 100
+    },
+    {
+      "id": "gunslinger",
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down five enemies in a single use of Combat Focus. PowerPyx says gang members count, while soldiers, police and civilians seem not to — so pick a gang fight, trigger Combat Focus, and chain five gang members before it ends.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "About 30 minutes",
+      "count": 5
+    },
+    {
+      "id": "catch-me-if-you-can",
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Steal a passenger jet docked at a gate at Vice City International Airport and fly about 1 km away from the airport. Walk the terminal gates until you find a jet at a gate, board it, and take off — the trophy pops once you are clear of the airport.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "About 15 minutes"
+    },
+    {
+      "id": "challenging-tank",
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "Steal a military tank. PowerPyx found tanks at Mile Zero Air Station in the southwest of the map — expect a heavy military response, so plan your escape route before you climb in.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "About 30 minutes"
+    },
+    {
+      "id": "sneakthief",
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Rob a jewelry store without being detected. You need the Snap Gun, which a Chapter 3 main mission gives you — so this cannot be done before then. Plan the approach, stay out of sight, and leave before anyone raises the alarm.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "About 30 minutes"
+    },
+    {
+      "id": "maximum-withdrawal",
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob five bank vaults and escape. Bank jobs open through an optional mission in Chapter 4; there are eight vaults in total, and 100% completion needs all eight, so do them all and this pops on the way.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 3,
+      "time": "4–6 hours",
+      "count": 5
+    },
+    {
+      "id": "a-classic-blitz-play",
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an armored truck and escape. The first bank job counts, or you can blow open a truck’s back door with a sticky bomb earlier in free roam — either way, get clear with the cash.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "About 15 minutes"
+    },
+    {
+      "id": "the-goodtime-state",
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all of Leonida — clear the fog from the entire map. A plane is the fastest way to cover the last corners; fly a grid over the state and watch the map fill in.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "difficulty": 2,
+      "time": "3–5 hours"
+    },
+    {
+      "id": "pest-control",
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob one illegal operation from each of the nine gangs. 100% completion needs all 39 operations, so keep hitting them after this pops — every gang’s operation counts toward both.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "4–6 hours",
+      "count": 9
+    },
+    {
+      "id": "in-the-beginning",
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Have a cocktail with a view on Ocean Beach. The exact method is not yet confirmed by the guide writers — the in-game description is the only lead so far, so try the beachfront bars on Ocean Beach and this guide will be updated when a source pins the trigger down. No guessing here: it is a short trophy once the spot is known.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "EGamers.io trophy list (citing PowerPyx, Push Square, GTABase)",
+          "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Unconfirmed"
+    },
+    {
+      "id": "capital-offense",
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Smash your way out of a vehicle showroom in classic style. The exact method is not yet confirmed — the description points at driving out through the glass, but no guide has verified the trigger yet, so this guide will not state a method it cannot source.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "EGamers.io trophy list (citing PowerPyx, Push Square, GTABase)",
+          "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Unconfirmed"
+    },
+    {
+      "id": "let-s-go-bowling",
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Take all three key valuables from the Kingpin Bowling gang operation in Port Gellhorn. The robbery comes back later, so it is not missable — if you miss a valuable, return and try again.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GamesFuze mission list",
+          "url": "https://gamesfuze.com/gta-6-wiki/missions/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "1–2 hours",
+      "count": 3
+    },
+    {
+      "id": "personal-best",
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "Max out strength on both Jason and Lucia. Work out together and both make progress — gym sessions count for whoever is training. Push Square does not mark this one as hidden.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "3–5 hours"
+    },
+    {
+      "id": "actions-speak-louder",
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "Perform 500 actions that affect your Criminal Profile. It comes naturally over a full playthrough — turn on progress and criminal profile notifications in the UI settings so you can see what counts, and it will tick up as you play.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "On the way to 100%",
+      "count": 500
+    },
+    {
+      "id": "bad-luck-i-guess",
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "Not yet confirmed. PowerPyx suspects a link to a Payday Loans store, and the description (“Second time’s the charm”) hints at trying something twice — but no source has verified a method, so this guide will not guess one. Check back once the guide writers pin it down.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GameMapa trophy list (citing GamesRadar+, PowerPyx)",
+          "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Unconfirmed"
+    },
+    {
+      "id": "the-truth-is-out-there",
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "Not yet confirmed. PowerPyx suspects a UFO questline, and the description (“What the hell just happened?”) fits a strange encounter — but no source has verified the trigger, so this guide will not send you chasing UFO spots on a guess.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GameMapa trophy list (citing GamesRadar+, PowerPyx)",
+          "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Unconfirmed"
+    },
+    {
+      "id": "ten-pin",
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Not yet confirmed. The in-game hint points to a melee attack from a moving vehicle, and PowerPyx suspects a kick from a motorcycle. Unverified — treat it as a lead, not a method, and try a motorcycle melee drive-by once you are set up for it.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        },
+        {
+          "name": "GameMapa trophy list (citing GamesRadar+, PowerPyx)",
+          "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "Unconfirmed"
+    },
+    {
+      "id": "dime-on-the-dollar",
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts (fences). It adds up across robberies, so it grows as you work through the crime trophies. The dye pack jammer, which makes laundering smoother, unlocks in a Chapter 3 main mission.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 2,
+      "time": "On the way to 100%",
+      "count": 250000
+    },
+    {
+      "id": "treat-yo-self",
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend $100,000 across all shops. Guns, car mods and tattoos get you there fastest — and you will pass this total naturally while gearing up for the 100% cleanup.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "activities",
+      "missable": false,
+      "difficulty": 1,
+      "time": "On the way to 100%",
+      "count": 100000
+    },
+    {
+      "id": "little-boxes",
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Buy all eight purchasable garages. PowerPyx puts the total at $160,000. The real estate app arrives in Chapter 2, so garage shopping starts then — and the space feeds On the Spot, which needs somewhere to register vehicles.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "difficulty": 1,
+      "time": "1–2 hours",
+      "count": 8
+    },
+    {
+      "id": "on-the-spot",
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register ten vehicles in the Scooter Bros app. You need garage space first, so pair it with Little Boxes — buy the garages, then register a vehicle each time you store a new one.",
+      "sources": [
+        {
+          "name": "SixShore trophy guide (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar)",
+          "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/"
+        }
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "difficulty": 1,
+      "time": "1–2 hours",
+      "count": 10
+    }
+  ]
+}

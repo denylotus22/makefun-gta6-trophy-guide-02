@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTA VI Trophy Guide &amp; Tracker — all 55 PS5 trophies</title>
+<meta name="description" content="Offline guide and tracker for all 55 Grand Theft Auto VI PlayStation 5 trophies: official names, descriptions and grades, a cited guide for each, a roadmap to the platinum, missable flags and a saved checklist.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="kicker">Grand Theft Auto VI · PlayStation 5 · 55 trophies</p>
+  <h1>Leonida Trophy Guide</h1>
+  <p class="lede">Every trophy, its official name, description and grade, a guide in our
+  own words with its sources named, and a checklist that saves your progress.
+  Works offline — no network, no account, no Rockstar artwork.</p>
+  <div class="progress" id="progress" aria-live="polite">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    <p class="progress-text" id="progressText">Loading trophies…</p>
+  </div>
+  <section class="next-best" id="nextBest" aria-label="Next best trophy"></section>
+</header>
+
+<main>
+  <section class="controls" aria-label="Tracker controls">
+    <div class="control-row">
+      <label class="search">Search
+        <input id="search" type="search" placeholder="Trophy, mission or keyword…" autocomplete="off">
+      </label>
+      <label class="grade">Grade
+        <select id="grade">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="spoiler-toggle"><input id="spoiler" type="checkbox"> Hide story spoilers until earned</label>
+    </div>
+    <div class="kind-filters" id="kindFilters" role="group" aria-label="Filter by kind"></div>
+    <div class="control-row">
+      <button id="exportBtn" type="button">Export progress</button>
+      <label class="import-btn">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+      <button id="printBtn" type="button">Print checklist</button>
+      <button id="resetBtn" type="button">Reset progress</button>
+      <span class="saved-note" id="savedNote" aria-live="polite"></span>
+    </div>
+  </section>
+
+  <section aria-label="Trophy checklist">
+    <h2 id="listHeading">Checklist</h2>
+    <p class="list-note" id="listNote"></p>
+    <ul class="trophy-list" id="trophyList"></ul>
+    <p class="empty" id="emptyState" hidden>No trophies match these filters.</p>
+  </section>
+
+  <section class="roadmap" id="roadmap" aria-label="Roadmap to the platinum"></section>
+</main>
+
+<footer>
+  <h2>About this guide</h2>
+  <p>Official trophy names, descriptions and grades are as PlayStation publishes
+  them, as listed by Exophase and PSNProfiles. Guide text is written for this
+  entry, in our own words, and each trophy names its sources beside the guide.
+  Where a trigger is not yet pinned down by any source, the guide says so
+  plainly instead of guessing. Counts (250 stunts, 42 shooting range
+  challenges, 14 drone race locations and the rest) come from the PS5 trophy
+  tracker on PSNProfiles, confirmed by GamesRadar and PowerPyx. Difficulty and
+  time figures are our own estimates, based on those counts and on the
+  PowerPyx (about 200 hours) and Push Square (250+ hours) platinum estimates.</p>
+  <p>All 55 trophies are single-player; there are no online trophies. Cheats
+  disable trophies and stop the game from saving, so keep them off your
+  platinum run (PowerPyx, Push Square). This guide is not affiliated with
+  Rockstar Games and uses no Rockstar logo or official artwork.</p>
+  <p class="sources-line">Main sources: <a href="https://sixshore.com/gta-6/guides/trophies-and-achievements/">SixShore trophy guide</a> (citing PowerPyx, Push Square, PSNProfiles, TrueAchievements, GamesRadar) ·
+  <a href="https://hudwire.com/gta-6-mission-list/">HUDWIRE mission list</a> ·
+  <a href="https://www.gtavibes.com/guides/gta-6-trophy-list-achievements">GTA Vibes trophy list</a> ·
+  <a href="https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/">GameMapa trophy list</a></p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
